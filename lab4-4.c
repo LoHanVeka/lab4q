@@ -17,7 +17,6 @@ int main() {
         double y;
         if (x == M_PI / 2) {
             
-            y = INFINITY;
         } else {
             y = tan(x);
         }
